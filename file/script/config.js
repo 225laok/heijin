@@ -1,0 +1,1 @@
+var DTPath = "http://hei.zdxinfo.com/";var DTMob = "http://hei.zdxinfo.com/mobile/";var SKPath = "http://hei.zdxinfo.com/skin/default/";var MEPath = "http://hei.zdxinfo.com/member/";var DTEditor = "fckeditor";var CKDomain = "";var CKPath = "/";var CKPrex = "cge_";
